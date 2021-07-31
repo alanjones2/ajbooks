@@ -8,6 +8,6 @@ If you are a Data Scientist or Data Journalist, being able to visualize your dat
 
 This book introduces the plot functions that are part of Python Pandas.
 
-You can download it from this repo. It comes as a PDF or an epub and is bundled with all of the code in the book and the data files that are used.
+You can download it from this repo. It comes as a **PDF** for printing or displaying on a large screen or an **EPUB** for your tablet, phone or ereader. All of the code in the book and the data files that are used are also available here.
 
 
