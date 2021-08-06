@@ -1,6 +1,6 @@
 # Plotting with Pandas: An Introduction to Data Visualization in Python 
 
-## A book to download (beta)
+## A book to download (_beta - not yet for public consumption_)
 
 ![](images/plottingwithpandas.png)
 
