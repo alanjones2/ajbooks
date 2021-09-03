@@ -10,7 +10,7 @@ This book introduces the plot functions that are part of Python Pandas.
 
 You can download it from this repo. It comes as a **PDF** for printing or displaying on a large screen or an **EPUB** for your tablet, phone or ereader. All of the code in the book and the data files that are used are also available here.
 
-If the book is useful please consider a contribution with the link at the bottom of this page (I hope you might consider that the book is worth a couple of coffees).
+__If you find the book useful please consider a contribution with the link at the bottom of this page (I hope you might consider that the book is worth a couple of coffees).__
 
 Right-click on the appropriate links and 'Save link as...' to download.
 
