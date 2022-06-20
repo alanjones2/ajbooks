@@ -1,6 +1,5 @@
 # Plotting with Pandas: An Introduction to Data Visualization in Python 
 
-## Plotting with Pandas: A Guide to Data Visualization in Python
 
 ![](images/plottingwithpandas.png)
 
